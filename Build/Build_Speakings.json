@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Medical_Workshop",
+"dataUrl": "Build_Speakings.data.unityweb",
+"asmCodeUrl": "Build_Speakings.asm.code.unityweb",
+"asmMemoryUrl": "Build_Speakings.asm.memory.unityweb",
+"asmFrameworkUrl": "Build_Speakings.asm.framework.unityweb",
+"TOTAL_MEMORY": 404750336,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
